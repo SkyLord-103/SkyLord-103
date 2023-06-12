@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @SkyLord-103
+I like coding.
+
+- Taking Havard - Computer Science :shades:
