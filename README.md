@@ -23,8 +23,8 @@ Taking Havard - Computer Science 😎
     <a href="https://nodejs.org/"><img alt="Javascript Badge" src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
     <br>
     <a href="https://python.org/"><img alt="Python Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-    <a href="https://lua.org/"><img alt="Lua Badge" src="https://img.shields.io/badge/lua-00599C?style=for-the-badge&logo=lua&logoColor=ffffff"/></a>
-    <a href="https://luau-lang.org/"><img alt="Luau Badge" src="https://img.shields.io/badge/luau-00599C?style=for-the-badge&logo=lua&logoColor=ffffff"/></a>
+    <a href="https://lua.org/"><img alt="Lua Badge" src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=ffffff"/></a>
+    <a href="https://luau-lang.org/"><img alt="Luau Badge" src="https://img.shields.io/badge/luau-2C2D72?style=for-the-badge&logo=lua&logoColor=ffffff"/></a>
     <br><br>
     I've worked with these languages and frameworks but<br>some I have less experience in and some I have more :P
 </section>
