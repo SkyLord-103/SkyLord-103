@@ -27,7 +27,7 @@ Working on trying to make my very own programming language *The name is a secret
     <a href="https://lua.org/"><img alt="Lua Badge" src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=ffffff"/></a>
     <a href="https://luau-lang.org/"><img alt="Luau Badge" src="https://img.shields.io/badge/luau-2C2D72?style=for-the-badge&logo=lua&logoColor=ffffff"/></a>
     <a href="https://github.com/SkyLord-103"><img alt="C-Lang Badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
-    <a href="https://github.com/SkyLord-103"><img alt="C++ Badge" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+    <a href="https://github.com/SkyLord-103"><img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
     <br>
     <h3 align="center">Less comfortable but have experience</h3>
     <a href="https://nodejs.org/"><img alt="NodeJs Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
