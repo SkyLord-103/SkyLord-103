@@ -45,7 +45,6 @@ Working on trying to make my very own programming language *The name is a secret
 <h2 align="center">Contact me</h2>
 <section align="center">
     <a href="https://twitter.com/r8gobb8/"><img alt="Twitter Badge" src="https://img.shields.io/badge/%40r8gobb8-blue?style=for-the-badge&logo=twitter&logoColor=%23ffffff&link=https%3A%2F%2Ftwitter.com%2Fr8gobb8"></a>
-    <img alt="Gitlab Badge" src="https://img.shields.io/badge/%40r8gobb8-orange?style=for-the-badge&logo=gitlab&logoColor=%23ffffff&color=%23f4622e&link=https%3A%2F%2Fgitlab.com%2Fr8gobb8">
     <br><br>
     Feel free to message me<br>I'm open almost whenever!
 </section>
